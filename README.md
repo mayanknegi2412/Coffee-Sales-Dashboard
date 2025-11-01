@@ -1,67 +1,105 @@
-☕ Coffee Sales Dashboard
-An interactive Excel-based analytics dashboard for visualizing and analyzing coffee sales data across multiple dimensions including time periods, product types, customer segments, and geographic regions.
-Show Image
-📊 Overview
-This project provides a comprehensive sales analytics solution built entirely in Microsoft Excel, featuring dynamic visualizations and interactive filters to explore coffee sales patterns and performance metrics.
-✨ Features
-Interactive Filters
 
-Order Date Range: Timeline-based filtering spanning 2019-2022
-Roast Type Selection: Dark, Light, and Medium roast options
-Size Categories: Multiple package sizes (0.2 kg, 0.5 kg, 1.0 kg, 2.5 kg)
-Loyalty Card Status: Filter by customer loyalty program membership
+# ☕ Coffee Sales Dashboard
 
-Visualizations
-1. Total Sales Over Time
+## 📋 Project Overview
 
-Multi-line time series chart tracking four coffee varieties:
+The **Coffee Sales Dashboard** is an interactive Excel-based project built to visualize and explore sales performance across different coffee products, time periods, and customer segments.
 
-Arabica
-Excelsa
-Liberica
-Robusta
+This project demonstrates my ability to transform raw sales data into **clear, data-driven insights** through advanced Excel tools like **Pivot Tables**, **Slicers**, and **dynamic visualizations**.
 
+![Coffee Sales Dashboard](4262fb79-d112-4b86-85b7-615cd0588015.png)
 
-Monthly granularity from 2019-2022
-Identifies seasonal trends and sales patterns
+---
 
-2. Sales by Country
+## 🎯 Key Objectives
 
-Horizontal bar chart showing geographic distribution
-Top markets include:
+* Analyze **sales performance** across multiple years and product categories.
+* Highlight **top-performing countries** and **key customers**.
+* Identify **trends and patterns** in product size, roast type, and loyalty behavior.
+* Create a **user-friendly dashboard** with interactive filtering for quick insights.
 
-United States: $35,639
-Ireland: $6,697
-United Kingdom: $2,799
+---
 
+## 💡 Insights Discovered
 
+* The **United States** consistently drives the majority of sales revenue.
+* **Arabica** and **Excelsa** blends show notable month-to-month variability.
+* **Sales spikes** correspond to seasonal peaks, likely tied to promotions or holidays.
+* A few **loyal customers** contribute disproportionately to total revenue.
 
-3. Top 5 Customers
+---
 
-Revenue contribution by individual customers
-Highlights key accounts:
+## 🧰 Tools & Techniques
 
-Allis Wilmore: $317
-Brenn Dundridge: $307
-Terri Farra: $289
-Nealson Cuttler: $282
-Don Flintiff: $278
+* **Microsoft Excel** – Dashboard creation, design, and analysis
+* **Pivot Tables** – Data aggregation and filtering
+* **Slicers** – Dynamic data interactivity
+* **Conditional Formatting** – Highlighting key values
+* **Custom Color Palette** – Branded, modern design theme
 
+---
 
+## 📊 Dashboard Highlights
 
-🛠️ Technical Details
-Built With
+| Feature                   | Purpose                                                    |
+| ------------------------- | ---------------------------------------------------------- |
+| **Order Date Filter**     | Analyze sales by specific months or years                  |
+| **Roast Type Filter**     | Compare performance between Dark, Light, and Medium roasts |
+| **Size Filter**           | Study sales distribution by package weight                 |
+| **Loyalty Card Filter**   | Contrast loyalty vs. non-loyalty customer behavior         |
+| **Total Sales Over Time** | Visualize long-term sales trends                           |
+| **Sales by Country**      | Identify high-performing regions                           |
+| **Top 5 Customers**       | Highlight major contributors to revenue                    |
 
-Microsoft Excel - Primary development platform
-Excel Charts - Data visualization
-Slicers/Filters - Interactive filtering
-PivotTables - Data aggregation (likely)
+---
 
-Data Structure
-The dashboard analyzes:
+## 🧩 Project Structure
 
-Sales transactions over 4 years (2019-2022)
-Multiple coffee roast types and varieties
-Package sizes from 0.2 kg to 2.5 kg
-Customer purchase data with loyalty program information
-Geographic sales across at least 3 countries
+```
+📂 Coffee-Sales-Dashboard
+│
+├── Coffee_Sales_Dashboard.xlsx     # Main Excel dashboard
+├── data/                           # Raw or cleaned sales data
+├── images/
+│   └── coffee_sales_dashboard.png  # Dashboard preview
+└── README.md                       # Project documentation
+```
+
+---
+
+## 🚀 How to Explore the Dashboard
+
+1. Open the **Coffee_Sales_Dashboard.xlsx** file in Excel (recommended: Excel 2016 or newer).
+2. Use the slicers to filter by **year**, **roast type**, **size**, or **loyalty card status**.
+3. Interact with charts to explore insights and trends dynamically.
+
+---
+
+## 🔍 What This Project Demonstrates
+
+This project showcases my ability to:
+
+* Clean, structure, and analyze sales data.
+* Design professional dashboards for **business decision-making**.
+* Communicate findings clearly through **data storytelling**.
+* Deliver insights using only **Excel**, without external BI tools.
+
+---
+
+## 📈 Future Enhancements
+
+* Integrate **Power Query** for automated data refresh.
+* Add **profit and cost metrics** for deeper financial insights.
+* Connect to a **SQL database or Power BI** for live reporting.
+
+---
+
+## 👋 About Me
+
+**[Mayank Negi]**
+💼 Data Analyst | Excel & Power BI Enthusiast | Data Storyteller
+📧 [mayankn295@gmail.com]
+
+---
+
+Would you like me to include a **short “Skills Highlight”** section (e.g., “Excel | Data Visualization | Business Analytics” at the top) to make it stand out even more on your GitHub profile?
