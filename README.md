@@ -7,7 +7,7 @@ The **Coffee Sales Dashboard** is an interactive Excel-based project built to vi
 
 This project demonstrates my ability to transform raw sales data into **clear, data-driven insights** through advanced Excel tools like **Pivot Tables**, **Slicers**, and **dynamic visualizations**.
 
-![Coffee Sales Dashboard](4262fb79-d112-4b86-85b7-615cd0588015.png)
+![Coffee Sales Dashboard](https://github.com/mayanknegi2412/Coffee-Sales-Dashboard/blob/main/Coffee_Sales_Order_Dashboard.png)
 
 ---
 
@@ -101,5 +101,3 @@ This project showcases my ability to:
 📧 [mayankn295@gmail.com]
 
 ---
-
-Would you like me to include a **short “Skills Highlight”** section (e.g., “Excel | Data Visualization | Business Analytics” at the top) to make it stand out even more on your GitHub profile?
